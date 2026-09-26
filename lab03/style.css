@@ -1,0 +1,34 @@
+body {
+    background-color: #80b639;
+}
+h1 {
+    color: #3498db; 
+}
+p {
+    color: #105786;
+}
+il{
+    color: #105786;
+}
+em, i {
+    color: #ffe033;
+}
+h2 {
+    color: #3498db; 
+    
+}
+ol{
+    color:#ffe033;
+    
+}
+#main-heading{
+    color: red;
+    font-size: 32px;
+    text-align: center;
+}
+.text-style{
+    color:rgb(14, 233, 196);
+}
+a{
+    color:aquamarine;
+}
